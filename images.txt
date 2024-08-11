@@ -3,4 +3,3 @@ taksss/php-epg:latest
 whyour/qinglong:latest
 pch18/baota:latest
 gdy666/lucky:latest
-taksss/php-epg
