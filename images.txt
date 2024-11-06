@@ -5,3 +5,4 @@ pch18/baota:latest
 gdy666/lucky:latest
 youshandefeiyang/allinone:latest
 pixman/pixman:latest
+hlohaus789/g4f:latest
