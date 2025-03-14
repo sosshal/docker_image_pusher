@@ -7,3 +7,4 @@ youshandefeiyang/allinone:latest
 pixman/pixman:latest
 hlohaus789/g4f:latest
 jc21/nginx-proxy-manager:latest
+moelin/1panel:latest
